@@ -1,0 +1,12 @@
+.gutters{
+	background-color: gray;
+	margin-bottom: 5px;
+
+}
+
+.box{
+	min-height: 40px;
+	background-color: red;
+	font-size: 15px;
+	color: black;
+}
